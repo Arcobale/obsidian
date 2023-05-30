@@ -128,13 +128,21 @@
                 "file": "前端学习.md"
               }
             }
+          },
+          {
+            "id": "5c631b541f62cb64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
