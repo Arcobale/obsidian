@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2cccbf1c1f4d377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6443b60bfaa98457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript高级程序设计第4版/1.初识JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "70cc6a7e9d4e0e63",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +156,10 @@
   },
   "active": "70cc6a7e9d4e0e63",
   "lastOpenFiles": [
-    "JavaScript高级程序设计第4版/2.语言核心特性/Number()函数转换规则.png",
-    "JavaScript高级程序设计第4版/2.语言核心特性.md",
-    "JavaScript高级程序设计第4版/2.语言核心特性/Boolean()转型函数转换规则.png",
     "JavaScript高级程序设计第4版/1.初识JavaScript.md",
+    "JavaScript高级程序设计第4版/2.语言核心特性.md",
+    "JavaScript高级程序设计第4版/2.语言核心特性/Number()函数转换规则.png",
+    "JavaScript高级程序设计第4版/2.语言核心特性/Boolean()转型函数转换规则.png",
     "JavaScript高级程序设计第4版/2.语言核心特性",
     "前端学习.md",
     "JavaScript高级程序设计第4版"
