@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript高级程序设计第4版/5.集合引用类型.md",
+                "file": "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript高级程序设计第4版/5.集合引用类型.md",
+                "file": "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript高级程序设计第4版/5.集合引用类型.md",
+                "file": "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript高级程序设计第4版/5.集合引用类型.md"
+                "file": "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md"
               }
             }
           },
@@ -156,11 +156,15 @@
   },
   "active": "2dc0c40f7f7aa9dd",
   "lastOpenFiles": [
-    "JavaScript高级程序设计第4版/4.原生引用类型、原始值包装类型.md",
     "JavaScript高级程序设计第4版/5.集合引用类型.md",
+    "JavaScript高级程序设计第4版/4.原生引用类型、原始值包装类型.md",
+    "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md",
+    "JavaScript高级程序设计第4版/6.对象、类与面向对象编程/Pasted image 20230603175650.png",
+    "JavaScript高级程序设计第4版/6.对象、类与面向对象编程",
+    "Pasted image 20230603175644.png",
+    "JavaScript高级程序设计第4版/1.初识JavaScript.md",
     "JavaScript高级程序设计第4版/2.语言核心特性.md",
     "JavaScript高级程序设计第4版/3.变量、作用域与内存.md",
-    "JavaScript高级程序设计第4版/1.初识JavaScript.md",
     "JavaScript高级程序设计第4版/2.语言核心特性/Number()函数转换规则.png",
     "JavaScript高级程序设计第4版/2.语言核心特性/Boolean()转型函数转换规则.png",
     "JavaScript高级程序设计第4版/2.语言核心特性",
