@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f35043cd98aa1086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript高级程序设计第4版/8.Promise与异步函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript高级程序设计第4版/7.函数.md",
+                "file": "JavaScript高级程序设计第4版/8.Promise与异步函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript高级程序设计第4版/7.函数.md",
+                "file": "JavaScript高级程序设计第4版/8.Promise与异步函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript高级程序设计第4版/7.函数.md"
+                "file": "JavaScript高级程序设计第4版/8.Promise与异步函数.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2dc0c40f7f7aa9dd",
+  "active": "f35043cd98aa1086",
   "lastOpenFiles": [
-    "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md",
     "JavaScript高级程序设计第4版/7.函数.md",
+    "JavaScript高级程序设计第4版/8.Promise与异步函数.md",
+    "JavaScript高级程序设计第4版/6.对象、类与面向对象编程.md",
     "JavaScript高级程序设计第4版/5.集合引用类型.md",
     "JavaScript高级程序设计第4版/4.原生引用类型、原始值包装类型.md",
     "JavaScript高级程序设计第4版/6.对象、类与面向对象编程/Pasted image 20230603175650.png",
